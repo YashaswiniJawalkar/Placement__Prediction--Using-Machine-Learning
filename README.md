@@ -1,6 +1,5 @@
 # Placement__Prediction--Using-Machine-Learning 
-[Visit here](https://yashaswiniproject101.onrender.com).
-The project aims to predict the likelihood of a student being placed in a company based on historical placement data, academic records, and relevant skills of students. It provides valuable insights to both students and recruiters, enhancing the placement process and increasing overall job satisfaction.
+The project aims to predict the likelihood of a student being placed in a company based on historical placement data, academic records, and relevant skills of students. It provides valuable insights to both students and recruiters, enhancing the placement process and increasing overall job satisfaction. [Visit here](https://yashaswiniproject101.onrender.com)<br>
 
 ## Overview
 
@@ -84,7 +83,7 @@ The project employs a dataset containing various features:
 
 ## Visit Website 
 
-[Click Here](https://yashaswiniproject101.onrender.com).
+[Click Here](https://yashaswiniproject101.onrender.com) to visit project
 
 ## Conclusion
 
